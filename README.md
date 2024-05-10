@@ -4,7 +4,7 @@ I am Renaldi, just an average lad who's into programming languages, SEO, and dig
 
 :zap: Some of my Competitive Programming profiles:
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-mhasan01-brightgreen)](https://www.hackerrank.com/profile/ghost_renaldi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Renaldi-brightgreen)](https://www.hackerrank.com/profile/ghost_renaldi)
 
 :mailbox: How to reach me:
 
