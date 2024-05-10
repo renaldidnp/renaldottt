@@ -2,6 +2,10 @@
 
 I am Renaldi, just an average lad who's into programming languages, SEO, and digital marketing.
 
+:zap: Some of my Competitive Programming profiles:
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-mhasan01-brightgreen)](https://www.hackerrank.com/profile/ghost_renaldi)
+
 :mailbox: How to reach me:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghost.renaldi@gmail.com)
